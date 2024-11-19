@@ -19,6 +19,7 @@ npm run build
 cd build
 # run any simple http server
 python3 -m http.server
+# site is running on http://localhost:8000/designbase-ui
 ```
 
 You can preview the production build with `npm run preview`.
