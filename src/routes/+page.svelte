@@ -6,8 +6,8 @@
 </script>
 
 <div class="my-20 mx-4 space-y-10">
-	<div class="space-y-6">
-		<h1 class="text-5xl"> {content.quote} </h1>
-		<h4 class="text-2xl leading-10"> {content.description} </h4>
+	<div class="space-y-8">
+		<h1 class="text-5xl leading-[3.5rem]"> {content.quote} </h1>
+		<h4 class="text-2xl leading-9 lg:leading-8"> {content.description} </h4>
   </div>
 </div>
