@@ -16,6 +16,9 @@ To create a production version of your app:
 
 ```bash
 npm run build
+cd build
+# run any simple http server
+python3 -m http.server
 ```
 
 You can preview the production build with `npm run preview`.
